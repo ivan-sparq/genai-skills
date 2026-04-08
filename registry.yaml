@@ -1,0 +1,6 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/runkids/skillshare/main/schemas/registry.schema.json
+skills:
+  - name: prompt-engineering
+    source: github.com/LKB-99/manus-auto-skills/prompt-engineering
+  - name: skillshare
+    source: github.com/runkids/skillshare/skills/skillshare

@@ -1,0 +1,12 @@
+{
+  "source": "github.com/LKB-99/manus-auto-skills/prompt-engineering",
+  "type": "github-subdir",
+  "installed_at": "2026-04-03T22:47:29.66866+02:00",
+  "repo_url": "https://github.com/LKB-99/manus-auto-skills.git",
+  "subdir": "prompt-engineering",
+  "version": "13d5d4a",
+  "tree_hash": "32f43b66055c8b1fe0165204b546c89ebc465a79",
+  "file_hashes": {
+    "SKILL.md": "sha256:a235e022461b8b543bcab7e003b24218154695f121cf76faf85577eb27d8ee3a"
+  }
+}
